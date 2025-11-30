@@ -1,5 +1,5 @@
 # cupazo
-hackatonAI2025
+*hackatonAI2025*
 
 # What am I?
 A voice bot, help you out with a call.
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ### STEP 03- API Key de Eleven Labs en -config/config.py-
 in : python main.py
 
-# Estructura de Carpetas
+# Files Structure
 ```
 asistente-voz/
 ├─ main.py
